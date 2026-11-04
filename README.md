@@ -20,8 +20,7 @@ Reklam yok, karmaşık siteler yok. Sadece indir, izle ve keyfine bak!
 *   **Otomatik Pano Algılama:** Kopyaladığınız linkleri (isteğe bağlı olarak) anında algılar ve kutuya yapıştırır.
 *   **Dahili FFmpeg Kontrolü:** MP3 dönüştürme sırasında FFmpeg eksikse sizi uyarır.
 
-## 📸 Ekran Görüntüsü
-*(Buraya uygulamanın bir ekran görüntüsünü koyabilirsin. Örn: `![Uygulama Ekranı](screenshot.png)`)*
+
 
 ## 🛠️ Kurulum
 
